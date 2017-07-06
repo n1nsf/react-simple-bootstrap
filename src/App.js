@@ -5,7 +5,7 @@ import Products from './common/Products'
 import Welcome from './common/Welcome'
 import Content from './common/Content'
 import './stylesheet/bootstrap.min.css'
-
+import Product from './product'
 class App extends Component {
 
     componentDidMount() {
@@ -13,18 +13,7 @@ class App extends Component {
     }
 
     render() {
-        const product1 = [
-            { name: 'เสื้อเชิ้ต', price: '100' },
-            { name: 'กางเกง', price: '200' },
-            { name: 'นาฬิกา', price: '300' },
-            { name: 'รองเท้า', price: '150' }
-        ]
-        const product2 = [
-            { name: 'กระเป๋า', price: '100' },
-            { name: 'เข็มขัด', price: '200' },
-            { name: 'กำไล', price: '300' },
-            { name: 'รองเท้า', price: '150' }
-        ]
+        let { product1, product2 } = Product
         return (
             <div className="App">
 

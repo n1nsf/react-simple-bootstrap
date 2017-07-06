@@ -8,9 +8,9 @@ const Products = (props) => (
             <div className="row text-center">
                 {
                     props.products.map((product, index) => {
-                        let { name , price } = product
+                        let { name, price, img } = product
                         return (
-                            <ProductItem name={name} price={price} key={product + index} />
+                            <ProductItem name={name} price={price} img={img} key={product + index} />
                         )
                     })
                 }

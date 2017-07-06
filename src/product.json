@@ -1,0 +1,14 @@
+{
+    "product1": [
+        { "name": "เสื้อเชิ้ต", "price": "100", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "กางเกง", "price": "200", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "นาฬิกา", "price": "300", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "รองเท้า", "price": "150", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" }
+    ],
+    "product2": [
+        { "name": "กระเป๋า", "price": "100", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "เข็มขัด", "price": "200", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "กำไล", "price": "300", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" },
+        { "name": "รองเท้า", "price": "150", "img": "https://i5.walmartimages.com/asr/e3b04e8f-4d96-480d-8041-459945251a74_1.0aa03f267fb9e1aadd528bfa0dc5cf6a.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" }
+    ]
+}
